@@ -1,14 +1,15 @@
 # Hyprland Wiki
 
-Welcome to the Hyprland Wiki! Here we store the wiki pages. They are automatically updated on the
-website whenever a change occurs, within a reasonable timeframe. (usually 1–2 minutes)
+Добро пожаловать в Hyprland Wiki! Здесь мы храним вики-страницы. Они автоматически обновляются на
+сайте при каждом изменении в разумные сроки. (обычно 1-2 минуты). Ну в этой версии не обновляються,
+так что читайте на гитхабе. В папке pages.
 
-## Contributing to the Wiki
+## Вклад в вики
 
-Feel free to open an issue or a PR if you feel anything is necessary.
-Make sure to clearly state the reason for the changes. If you have questions regarding the wiki,
-you should consider joining our [Discord Server](https://discord.gg/hQ9XvMUjjr) instead.
+Не стесняйтесь открыть проблему или PR, если вы считаете, что это необходимо.
+Обязательно четко укажите причину изменений. Если у вас есть вопросы, касающиеся вики,
+вам стоит присоединиться к нашему [Discord Server](https://discord.gg/hQ9XvMUjjr).
 
-## License
+## Лицензия
 
-This repository is licensed under the [BSD 3-Clause License](LICENSE).
+Этот репозиторий лицензирован по [BSD 3-Clause License](LICENSE).
